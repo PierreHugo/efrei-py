@@ -1,0 +1,6 @@
+employee_id,name,department,salary,hire_date,manager_id
+1,Alice,HR,50000,2020-01-15,5.0
+2,Bob,Engineering,80000,2018-03-10,5.0
+3,Carol,Engineering,90000,2017-07-23,5.0
+4,David,Marketing,60000,2019-11-19,6.0
+5,Eve,HR,100000,2015-06-04,
